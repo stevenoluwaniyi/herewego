@@ -6,14 +6,12 @@
 // The LoginFragement does its thing and navigates to
 // the ListingFragment which lists the contents of a JSON Array
 
-package com.example.herewego
-
+package com.example.listevents
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 
 class MainActivity : AppCompatActivity(), NavigationHost {
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

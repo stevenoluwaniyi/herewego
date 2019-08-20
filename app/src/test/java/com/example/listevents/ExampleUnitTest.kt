@@ -1,4 +1,4 @@
-package com.example.herewego
+package com.example.listevents
 
 import org.junit.Test
 
